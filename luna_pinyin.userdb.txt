@@ -1,0 +1,158 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	219
+#@/user_id	laysan_mac
+a 	啊	c=2 d=1.06733 t=219
+an 	按	c=1 d=0.554327 t=219
+an pai 	安排	c=1 d=0.367879 t=219
+an zhuo 	安卓	c=1 d=0.425283 t=219
+ba 	吧	c=1 d=0.400517 t=219
+ba zhan 	扒站	c=2 d=0.981207 t=219
+bian ji 	編輯	c=1 d=0.429557 t=219
+bian liang 	變量	c=1 d=0.511709 t=219
+biao 	表	c=1 d=0.963148 t=219
+biao dan 	表單	c=4 d=3.48909 t=219
+bie hai 	別還	c=1 d=0.357007 t=219
+bie ren 	別人	c=1 d=0.346456 t=219
+bu 	不	c=0 d=0.0631284 t=219
+bu ci zhi 	不辭職	c=1 d=0.634448 t=219
+bu kui 	不虧	c=1 d=0.351692 t=219
+bu neng 	不能	c=1 d=0.640824 t=219
+bu shu 	部署	c=1 d=0.522046 t=219
+cha bu duo 	差不多	c=1 d=0.396531 t=219
+cha cha 	查查	c=0 d=0.0444858 t=219
+cha xun 	查詢	c=7 d=6.06958 t=219
+chuang jian 	創建	c=1 d=0.985112 t=219
+ci zhi 	辭職	c=0 d=0.0631284 t=219
+da gong 	打工	c=1 d=0.348192 t=219
+de 	的	c=7 d=3.85536 t=219
+deng 	等	c=1 d=0.70822 t=219
+di fang 	地方	c=1 d=0.701173 t=219
+dian 	點	c=1 d=0.45612 t=219
+dou 	都	c=2 d=0.980634 t=219
+dou xiu 	都休	c=1 d=0.615697 t=219
+duo 	多	c=1 d=0.648218 t=219
+en 	恩	c=2 d=0.865912 t=219
+fang shi 	方式	c=1 d=0.806541 t=219
+gan sha 	幹啥	c=1 d=0.65377 t=219
+gei 	給	c=1 d=0.344728 t=219
+gong neng 	功能	c=1 d=0.491644 t=219
+gong zuo 	工作	c=1 d=0.559898 t=219
+guan li 	管理	c=1 d=0.722527 t=219
+gun dong 	滾動	c=1 d=0.486752 t=219
+hai shi 	還是	c=0 d=0.0416862 t=219
+hai shi duo 	還是多	c=1 d=0.418952 t=219
+hai you 	還有	c=3 d=1.77201 t=219
+hao duo 	好多	c=1 d=0.579842 t=219
+hou 	後	c=1 d=0.465334 t=219
+hou duan 	後端	c=1 d=0.382893 t=219
+huan 	換	c=1 d=0.644036 t=219
+ji chu 	基礎	c=2 d=1.6873 t=219
+ji chu 	擠出	c=1 d=0.737123 t=219
+ji ge 	幾個	c=1 d=0.377192 t=219
+ji tian 	幾天	c=1 d=0.529935 t=219
+jia 	加	c=2 d=1.03378 t=219
+jie tu 	截圖	c=2 d=0.9711 t=219
+jing die 	晶蝶	c=1 d=0.690734 t=219
+jiu bu cuo 	就不錯	c=1 d=0.353455 t=219
+ju jue 	拒絕	c=2 d=0.930715 t=219
+jue 	絕	c=1 d=0.680451 t=219
+ka 	卡	c=1 d=0.40657 t=219
+kai fa 	開發	c=1 d=0.379083 t=219
+kan 	看	c=1 d=0.537944 t=219
+ke yi 	可以	c=1 d=0.647265 t=219
+kuai di 	快遞	c=1 d=0.431711 t=219
+le 	了	c=7 d=3.0091 t=219
+lei ji 	累計	c=1 d=0.557106 t=219
+lei xing 	類型	c=1 d=0.822835 t=219
+lian xi 	聯繫	c=1 d=0.802519 t=219
+liang ge 	兩個	c=2 d=0.765795 t=219
+lie biao 	列表	c=1 d=0.900325 t=219
+liu cheng 	流程	c=3 d=2.18281 t=219
+liu zhuan 	流轉	c=10 d=8.77057 t=219
+liu zhuan biao 	流轉表	c=3 d=2.78083 t=219
+liu zhuan biao dan 	流轉表單	c=1 d=0.856415 t=219
+me 	麼	c=1 d=0.38868 t=219
+mi ji 	密級	c=1 d=0.904837 t=219
+na ge 	哪個	c=0 d=0.0392586 t=219
+na jiu 	那就	c=1 d=0.402524 t=219
+ne 	呢	c=3 d=1.63801 t=219
+neng 	能	c=1 d=0.621885 t=219
+ni men 	你們	c=1 d=0.524663 t=219
+nian jia 	年假	c=3 d=1.67276 t=219
+nian xian 	年限	c=1 d=0.562705 t=219
+niu bi 	牛比	c=1 d=1 t=219
+pan duan 	判斷	c=2 d=1.0286 t=219
+pei zhi 	配置	c=1 d=0.767206 t=219
+ping tai 	平臺	c=1 d=0.798516 t=219
+qi 	企	c=0 d=0.0444858 t=219
+qi 	器	c=1 d=0.67368 t=219
+qi cha cha 	企查查	c=1 d=0.447088 t=219
+qian 	錢	c=1 d=0.412714 t=219
+qian duan 	前端	c=1 d=0.386741 t=219
+qiu qian 	鞦韆	c=1 d=0.453845 t=219
+qu na 	去拿	c=1 d=0.433874 t=219
+quan xian 	權限	c=1 d=0.494109 t=219
+quan zhan 	全站	c=1 d=0.499074 t=219
+ren 	人	c=1 d=0.416862 t=219
+ren wu 	任務	c=2 d=0.940033 t=219
+shang 	上	c=0 d=0.065377 t=219
+shen qi 	神器	c=1 d=0.506617 t=219
+shi chang 	市場	c=1 d=0.71177 t=219
+shi hou 	時候	c=1 d=1 t=219
+shu ju 	數據	c=2 d=1.67015 t=219
+shu ju zi dian 	數據字典	c=1 d=0.814647 t=219
+shuo ming 	說明	c=1 d=0.843665 t=219
+suan 	算	c=1 d=0.565525 t=219
+tian 	天	c=2 d=1.13448 t=219
+tiao jian 	條件	c=3 d=1.94388 t=219
+tiao xiu 	調休	c=2 d=1.19799 t=219
+tie jin qu 	貼進去	c=1 d=0.358796 t=219
+tong guo 	通過	c=4 d=2.31927 t=219
+wan shang 	晚上	c=0 d=0.0390628 t=219
+wan shang zai liao 	晚上再聊	c=1 d=0.392586 t=219
+wang ye 	網頁	c=2 d=0.96383 t=219
+wen ben 	文本	c=1 d=0.427415 t=219
+wo 	我	c=2 d=0.995012 t=219
+wo fa xian 	我發現	c=1 d=0.571209 t=219
+wo gang 	我剛	c=1 d=0.535261 t=219
+wo men 	我們	c=1 d=0.995012 t=219
+wu ji 	無極	c=1 d=0.687289 t=219
+wu xi 	無錫	c=1 d=0.449329 t=219
+xi huan 	喜歡	c=1 d=0.410656 t=219
+xi tong 	系統	c=2 d=1.78955 t=219
+xia 	下	c=1 d=0.543351 t=219
+xia zai 	下載	c=1 d=0.496585 t=219
+xian tiao 	線條	c=0 d=0.065377 t=219
+xian tiao shang 	線條上	c=1 d=0.657047 t=219
+xian zai 	現在	c=1 d=0.527292 t=219
+xiang mu 	項目	c=2 d=1.06891 t=219
+xiao shi 	小時	c=2 d=1.20409 t=219
+xin gong si 	新公司	c=1 d=0.440432 t=219
+xin xi 	信息	c=8 d=6.75199 t=219
+xin xi biao 	信息表	c=1 d=0.941765 t=219
+xing a 	行啊	c=1 d=1 t=219
+xing ba 	行吧	c=1 d=0.390628 t=219
+xiu 	休	c=1 d=0.625002 t=219
+xuan 	選	c=1 d=0.443799 t=219
+xuan na ge 	選哪個	c=1 d=0.394554 t=219
+ye mian 	頁面	c=2 d=1.42932 t=219
+yi ge yue 	一個月	c=1 d=0.628135 t=219
+yong hu 	用戶	c=1 d=0.752014 t=219
+you 	又	c=1 d=0.371577 t=219
+you 	有	c=1 d=0.546074 t=219
+yuan gun gun 	圆滚滚	c=1 d=0.451581 t=219
+yuan qi jian 	元器件	c=1 d=0.362402 t=219
+za 	咋	c=1 d=0.366045 t=219
+zai 	再	c=1 d=0.438235 t=219
+zai liao 	再聊	c=0 d=0.0390628 t=219
+zan cun 	暫存	c=1 d=0.748264 t=219
+zhen 	陣	c=1 d=0.751229 t=219
+zhi 	值	c=2 d=1.34955 t=219
+zhu xian 	誅仙	c=0 d=0.067368 t=219
+zhu xian zhen 	誅仙陣	c=1 d=0.677057 t=219
+zi dian 	字典	c=6 d=4.89454 t=219
+zou 	走	c=1 d=0.423162 t=219
+zui duo 	最多	c=1 d=0.694197 t=219
